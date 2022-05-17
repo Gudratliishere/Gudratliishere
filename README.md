@@ -9,8 +9,8 @@
 - 🔭 Check out my some demo web-sites:  
 	- [HeapOverFlow](http://heapoverflow.somee.com):  
 		http://heapoverflow.somee.com  
-	- [Your Music Platform](https://yourmusicplatform.000webhostapp.com/):  
-		https://yourmusicplatform.000webhostapp.com/  
+	- [Your Music Platform](https://yourmusic-platform.000webhostapp.com/):  
+		https://yourmusic-platform.000webhostapp.com/  
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="./image/java.png" style="padding-right:10px;" />
