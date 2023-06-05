@@ -9,10 +9,8 @@
 - 🥅 2023 Goals: Learn more about Spring Boot
 - ⚡ Fun fact: Hip-Hop Rap is my life style, I love signing rap musics (sshh check out my [channel](https://www.youtube.com/channel/UCR0Qjm5Ibu2EHz7gaW3tzdA))
 - 🔭 Check out my some demo web-sites:  
-	- [HeapOverFlow](http://heapoverflow.somee.com):  
-		http://heapoverflow.somee.com  
-	- [Your Music Platform](https://yourmusic-platform.000webhostapp.com/):  
-		https://yourmusic-platform.000webhostapp.com/  
+	- [WordScrambleGame](https://wordscramble-game.vercel.app/):  
+	  	https://wordscramble-game.vercel.app/
 	- [Demo Portfolio](https://comedunay.000webhostapp.com):  
 		https://comedunay.000webhostapp.com/index.php
 
