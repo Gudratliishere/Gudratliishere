@@ -47,3 +47,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gudratliishere&show_icons=true&locale=en&layout=compact" alt="gudratliishere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gudratliishere&" alt="gudratliishere" /></p>
+
+### ✍️ Listen
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
