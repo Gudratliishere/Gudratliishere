@@ -11,8 +11,6 @@
 - 🔭 Check out my some demo web-sites:  
 	- [WordScrambleGame](https://wordscramble-game.vercel.app/):  
 	  	https://wordscramble-game.vercel.app/
-	- [Demo Portfolio](https://comedunay.000webhostapp.com):  
-		https://comedunay.000webhostapp.com/index.php
 
 ### Connect with me:  
 <p align="left">
