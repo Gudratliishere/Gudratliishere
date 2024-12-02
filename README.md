@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gudratliishere&label=Profile%20views&color=0e75b6&style=flat" alt="gudratliishere" /> </p>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to new jobs 
-- 🥅 2023 Goals: Learn more about Spring Boot
+- 🌱 I’m currently learning everything 👨‍💻
+- 👯 I’m looking to new remote jobs
+- 🥅 2025 Goals: Learn more about React JS
 - ⚡ Fun fact: Hip-Hop Rap is my life style, I love signing rap musics (sshh check out my [channel](https://www.youtube.com/channel/UCR0Qjm5Ibu2EHz7gaW3tzdA))
 - 🔭 Check out my some demo web-sites:  
 	- [WordScrambleGame](https://wordscramble-game.vercel.app/):  
