@@ -2,16 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gudratliishere&label=Profile%20views&color=0e75b6&style=flat" alt="gudratliishere" /> </p>
 
-- 🌱 I’m currently learning everything 👨‍💻
-- 🥅 2025 Goals: Learn more about React JS
-- 🔭 Check out my some demo web-sites:  
-	- [WordScrambleGame](https://wordscramble-game.vercel.app/):  
-	  	https://wordscramble-game.vercel.app/
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gudratliishere&show_icons=true&locale=en&layout=compact" alt="gudratliishere" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gudratliishere&" alt="gudratliishere" /></p>
-
 ### ✍️ Listen
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
